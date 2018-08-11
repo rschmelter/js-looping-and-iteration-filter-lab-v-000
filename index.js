@@ -11,3 +11,9 @@ function fuzzyMatch (list, string) {
     return driverName.slice(0, stringLength) === string;
   });
 }
+
+function matchName (drivers, string) {
+
+
+
+}
